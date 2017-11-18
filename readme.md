@@ -14,7 +14,7 @@ There are tons of commands. Therefore, I am sharing only essential 8 commands wh
 * `pwd` - present working directory
 * `ls` - listing
 ### flags(2)
-flag always start with `-`.
+flag always start with `-`
 * `r` - recursive
 * `f` - force         
 ### Identifiers(3)
