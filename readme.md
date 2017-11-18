@@ -5,14 +5,14 @@ There are tons of commands. Therefore, I am sharing only essential 8 commands wh
 -----
 
 ### commands(8)
-* `cd <foldername>`
-* `touch <filename>`
-* `mkdir <foldername>`
-* `cp <path1><path2>`
-* `mv <path1><path2>`
-* `rm <file/folderpath>`
-* `pwd`
-* `ls`       
+* `cd <foldername>` - change directory
+* `touch <filename>` 
+* `mkdir <foldername>` - make directory
+* `cp <path1><path2>` - copy
+* `mv <path1><path2>` - move
+* `rm <file/folderpath>` - remove
+* `pwd` - present working directory
+* `ls` - listing
 ### flags(2)
 flag always start with `-`.
 * `r` - recursive
