@@ -5,12 +5,12 @@ There are tons of commands. Therefore, I am sharing only essential 8 commands wh
 -----
 
 ### commands(8)
-* `cd` <foldername>
-* `touch` <filename>
-* `mkdir` <foldername>
-* `cp` <path1><path2>
-* `mv` <path1><path2>
-* `rm` <file/folderpath>
+* `cd <foldername>`
+* `touch <filename>`
+* `mkdir <foldername>`
+* `cp <path1><path2>`
+* `mv <path1><path2>`
+* `rm <file/folderpath>`
 * `pwd`
 * `ls`       
 ### flags(2)
