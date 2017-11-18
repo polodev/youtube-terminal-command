@@ -1,5 +1,5 @@
 # Basic terminal command for beginner, web designer and web developer (git bash in windows)
-There are tons of commands. Therefore, I am sharing only essential 8 commands which make you a pro pc/mac/linux user. Windows user need to install [git](https://git-scm.com/) software. All commands you will be able to use in gitbash.        
+There are tons of commands. Therefore, I am sharing only essential 8 commands which make you a pro pc/mac/linux user. Windows user need to install [git](https://git-scm.com/) software. All commands you will be able to use inside gitbash in windows.        
 
 
 -----
