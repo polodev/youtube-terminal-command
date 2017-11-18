@@ -1,9 +1,14 @@
 # Basic terminal command for beginner, web designer and web developer (git bash in windows)
----
 There are tons of commands. Therefore, I am sharing only essential 8 commands which make you a pro pc/mac/linux user. Windows user need to install [git](https://git-scm.com/) software. All commands you will be able use in gitbash.        
-**commands(8):** `cd` `touch` `mkdir` `cp` `mv` `rm` `pwd` `ls`
-**flags(2):** flag always start with `-`. `r` - recursive, `f` - force     
-**Identifiers(3):** `*` - everything, `.` - current directory, `..` parent directory      
+
+
+-----
+
+**commands(8):** `cd` `touch` `mkdir` `cp` `mv` `rm` `pwd` `ls`       
+**flags(2):** flag always start with `-`. `r` - recursive, `f` - force         
+**Identifiers(3):** `*` - everything, `.` - current directory, `..` parent directory        
+
+### Details
 
 for removing and copying folder we need `r` flag       
 ### to change directory
