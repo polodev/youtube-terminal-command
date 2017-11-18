@@ -62,9 +62,9 @@ rm -rf <folderName>
 
 ### to see what inside a directory
 ~~~bash
-// to know current folder listing
+# to know current folder listing
 ls
-// to know some other folder listing
+# to know some other folder listing
 ls <folderPath>
 ~~~
 ### to know the present working directory
